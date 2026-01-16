@@ -1,0 +1,46 @@
+{
+  "// GitHub Copilot Settings": "",
+  "github.copilot.enable": {
+    "*": true,
+    "markdown": true
+  },
+  
+  "// File Associations": "",
+  "files.associations": {
+    ".github-instructions.md": "markdown"
+  },
+  
+  "// MCP Server Configuration": "",
+  "// Uncomment and configure the servers you want to use": "",
+  
+  "// mcp.servers": {
+  //   "azure-devops": {
+  //     "command": "node",
+  //     "args": ["./examples/azure-devops-mcp/server.js"],
+  //     "env": {
+  //       "AZURE_DEVOPS_ORG": "your-organization-name",
+  //       "AZURE_DEVOPS_PAT": "${env:AZURE_DEVOPS_PAT}"
+  //     }
+  //   },
+  //   "azure-portal": {
+  //     "command": "node",
+  //     "args": ["./examples/azure-portal-mcp/server.js"],
+  //     "env": {
+  //       "AZURE_SUBSCRIPTION_ID": "${env:AZURE_SUBSCRIPTION_ID}",
+  //       "AZURE_TENANT_ID": "${env:AZURE_TENANT_ID}"
+  //     }
+  //   },
+  //   "custom-database": {
+  //     "command": "python",
+  //     "args": ["./advanced/python-mcp-example/server.py"],
+  //     "env": {
+  //       "DATABASE_URL": "${env:DATABASE_URL}"
+  //     }
+  //   }
+  // },
+  
+  "// Editor Settings": "",
+  "editor.formatOnSave": true,
+  "editor.wordWrap": "on",
+  "markdown.preview.breaks": true
+}

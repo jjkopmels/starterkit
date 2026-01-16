@@ -1,0 +1,20 @@
+{
+  "name": "azure-portal-mcp-server",
+  "version": "1.0.0",
+  "description": "MCP server for Azure Portal/Resource Manager integration",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^0.5.0"
+  },
+  "keywords": [
+    "mcp",
+    "azure",
+    "azure-resource-manager",
+    "model-context-protocol"
+  ],
+  "author": "",
+  "license": "MIT"
+}

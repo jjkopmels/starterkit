@@ -1,0 +1,10 @@
+We are creating a starter kit for developing markdown driver agents inside vscode with the following characteristics:
+- include a reading list explaining the concepts of agents, agentic ai, mcp servers and usage, agent skills (as defined here https://platform.claude.com/docs/en/agents-and-tools/agent-skills/overview)
+- create a step-by-step tutorial document for setting up a vscode environment based on the github repo this document is part of
+- the tutorial needs to cover the following;
+1. setup of the environment
+2. explanation and basic setup of the github-instructions markdown file
+3. creating the first markdown driven agent
+4. adding mcp server connections into azure devops and azure portal
+5. using an agent and the chat client to access data through the mcp server connections
+6. for advanced users a guid towards building a first mcp server in either c# or python 
