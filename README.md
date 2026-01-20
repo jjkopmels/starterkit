@@ -45,7 +45,7 @@ MCP is a standardized protocol that enables AI models to securely connect to ext
 **Recommended Reading:**
 - [Model Context Protocol Documentation](https://modelcontextprotocol.io/introduction) - Official spec
 - [MCP Server Examples](https://github.com/modelcontextprotocol/servers) - Reference implementations
-- [Building MCP Servers](https://modelcontextprotocol.io/tutorials/building-a-server) - Development guide
+- [Building MCP Servers](https://modelcontextprotocol.io/docs/develop/build-server) - Development guide
 
 ### Agent Skills (Claude-Specific)
 
